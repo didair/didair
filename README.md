@@ -8,7 +8,7 @@ Senior developer. Keyboard enthusiast. Loving father of two cats 🐈🐈.
 
 *   🌍  I'm based in Sweden
 *   🖥️  See my portfolio at [aekstrom.me](http://aekstrom.me)
-*   🚀  I'm currently working on [touchlace](http://github.com/didair/touchlace)
+*   🚀  I'm currently working on [touchlace](http://github.com/didair/touchlace) & [lokal](http://github.com/didair/lokal)
 
 ### Skills 
 <p align="left">
