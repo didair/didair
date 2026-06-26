@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 \- Software Developer
 ---------------------
 
-Senior developer. Keyboard enthusiast. Loving father of one cat 🐈. (RIP Elvis 😿 2023-2025)
+Senior developer, consultant. Keyboard enthusiast. Loving father of one cat 🐈. (RIP Elvis 😿 2023-2025) and one daughter.
 
 *   🌍  I'm based in Sweden
-*   🖥️  See my portfolio at [aekstrom.me](http://aekstrom.me)
-*   🚀  I'm currently working on [touchlace](http://github.com/didair/touchlace) & [lokal](http://github.com/didair/lokal)
-*   Co-founder and owner of [Ekström Törnros](https://github.com/ekstromtornros)
+*   🚀  I'm currently working on [touchlace](http://github.com/didair/touchlace) & [lokal](http://github.com/lokal-server/lokal)
+*   Co-founder and owner of [Homio](https://homio.se)
 
 ### Skills 
 <p align="left">
