@@ -7,8 +7,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior developer, consultant. Keyboard enthusiast. Loving father of one cat 🐈. (RIP Elvis 😿 2023-2025) and one daughter.
 
 *   🌍  I'm based in Sweden
-*   🚀  I'm currently working on [touchlace](http://github.com/didair/touchlace) & [lokal](http://github.com/lokal-server/lokal)
 *   Co-founder and owner of [Homio](https://homio.se)
+
+## My projects
+* 🚀  [kimiko](http://github.com/didair/kimiko) - Automated WordPress content engine using AI
+* 🚀  [compressarr](http://github.com/didair/kimiko) - Reclaim media storage by converting your media files to h265
+* 🚀  [lokal](http://github.com/lokal-server/lokal) - Serve, share & access your files remotely from your NAS
+* 🚀  [vitewp](http://github.com/didair/vitewp) - Next generation WordPress development using Vite & Astro
+* 🚀  [touchlace](http://github.com/didair/touchlace) - Control your home assistant without writing a single line of YAML
 
 ### Skills 
 <p align="left">
